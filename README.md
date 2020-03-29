@@ -1,2 +1,11 @@
-Used Linear Regression and Random Forest Regressor algorithms to predict medical costs and came to a conclusion that smoking drives medical costs the most.
-Polynomial Regression and RFR have around 88% accuracy.
+# Project Goal
+Prediction of medical costs according to different factors (age, sex, bmi, region, smoking, children)
+
+## Models
+* Linear Regression
+* Random Forest Regressor
+* Polynomial Regression
+
+## Conclusions
+* Smoking drives medical costs the most
+* Polynomial Regression and RFR have around 88% accuracy
